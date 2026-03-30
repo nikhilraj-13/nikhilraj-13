@@ -99,13 +99,13 @@ contribute my experience in projects.
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/nikhil0m">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nikhil0m&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="nikhil0m's GitHub Stats" />
+  <a href="https://github.com/nikhilraj-13">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nikhilraj-13&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="nikhilraj-13's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=nikhil0m&theme=dark&hide_border=true&cache_seconds=86400" alt="nikhil0m's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=nikhilraj-13&theme=dark&hide_border=true&cache_seconds=86400" alt="nikhilraj-13's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=nikhil0m&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nikhil Raj's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=nikhilraj-13&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nikhil Raj's GitHub Trophies" />
 </p>
 
 ---
