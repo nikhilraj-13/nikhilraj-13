@@ -22,9 +22,9 @@
 <p>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="190" width="400" align="right" style="margin-left:20px;" />
 </p>
-🎓 Aspiring **Software Engineer** 
+- 🎓 Aspiring **Software Engineer** 
 - 💻 Currently exploring **System Design & Advanced Backend** 
-📚 Learning **Advanced DSA, React, Backend Systems** 
+- 📚 Learning **Advanced DSA, React, Backend Systems** 
 - 🔭 Building **real-world scalable applications**  
 - 🌱 Passionate about **clean UI & performance optimization**  
 - 🧠 Strong in **DSA & Problem Solving**  
