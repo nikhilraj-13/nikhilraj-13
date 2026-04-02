@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Nikhil%20Raj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-//Typing Animation
+<!-- Typing Animation -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C7B7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Nikhil+Raj;Full+Stack+Developer+💻;Building+Scalable+Web+Apps;Open+to+Opportunities+🚀" />
