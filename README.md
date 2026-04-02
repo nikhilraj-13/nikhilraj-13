@@ -1,4 +1,9 @@
-<img src="https://user-images.githubusercontent.com/97781422/185549684-8443257c-c202-440f-b506-6993049e941f.jpg" />
+<!-- Animated Header -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Nikhil%20Raj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+//Typing Animation
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C7B7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Nikhil+Raj;Full+Stack+Developer+💻;Building+Scalable+Web+Apps;Open+to+Opportunities+🚀" />
@@ -15,16 +20,16 @@
 ## 👨‍💻 About Me
 
 <p>
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" height="190" width="400" align="right" style="margin-left:20px;" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="190" width="400" align="right" style="margin-left:20px;" />
 </p>
-
-- 👨‍💻 Full Stack Developer specializing in **MERN Stack**  
-- 💻 Currently exploring **System Design & Advanced Backend**  
+🎓 Aspiring **Software Engineer** 
+- 💻 Currently exploring **System Design & Advanced Backend** 
+📚 Learning **Advanced DSA, React, Backend Systems** 
 - 🔭 Building **real-world scalable applications**  
 - 🌱 Passionate about **clean UI & performance optimization**  
 - 🧠 Strong in **DSA & Problem Solving**  
 - 🤝 Enjoy collaborating and working in **team environments**  
-- 💡 Fun fact: I’m a **creative person** and I love my country 🇮🇳  
+- 💡 Fun fact: I’m a **creative person** and I love my country 🇮🇳 
 
 ---
 
@@ -48,47 +53,35 @@
 
 <div align="center">
 
-<h3>Frontend</h3>
-
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<br/><br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-<br/><br/>
-
-<h3>Backend</h3>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Mongoose-%2300f.svg?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-
-<br/><br/>
-
-<h3>Tools</h3>
-
-<img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-
-</div>
-
----
-
-## 🧠 Most Used Languages
+<h3>⚡ Frontend </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilraj-13&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
+
+<br/><br/>
+
+<h3>🛠 Backend</h3> 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+<br/><br/>
+
+<h3>🔧 Tools</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=github,git,figma,netlify,vscode" />
+</p>
+
+<br/><br/>
+
+<h3> 👩‍💻 Languages</h3>
+<p align="center
+">
+<img src="https://skillicons.dev/icons?i=cpp,c,js" />
+</p>
+
+</div>
 
 ---
 
@@ -100,10 +93,28 @@
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilraj-13&theme=tokyo-night&hide_border=true" />
+</p>
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+---
+
+# 🔥 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/nikhilraj_13/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+
 </p>
 
 ---
