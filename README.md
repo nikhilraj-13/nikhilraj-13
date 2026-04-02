@@ -34,7 +34,7 @@
   <a href="mailto:nikhil0001007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://nikhilraj-13.github.io">
+  <a href="https://portfolio-nikhil-rajs-projects-146c00b0.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   <a href="https://drive.google.com/file/d/1rOdcJSUnU9pYNaZCKigxN59w8hqkV51a/view?usp=drive_link">
