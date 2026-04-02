@@ -22,14 +22,14 @@
 <p>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="190" width="400" align="right" style="margin-left:20px;" />
 </p>
-- 🎓 Aspiring **Software Engineer** 
-- 💻 Currently exploring **System Design & Advanced Backend** 
-- 📚 Learning **Advanced DSA, React, Backend Systems** 
-- 🔭 Building **real-world scalable applications**  
-- 🌱 Passionate about **clean UI & performance optimization**  
-- 🧠 Strong in **DSA & Problem Solving**  
-- 🤝 Enjoy collaborating and working in **team environments**  
-- 💡 Fun fact: I’m a **creative person** and I love my country 🇮🇳 
+- 🎓 Aspiring **Software Engineer** <br/>
+- 💻 Currently exploring **System Design & Advanced Backend** <br/>
+- 📚 Learning **Advanced DSA, React, Backend Systems** <br/>
+- 🔭 Building **real-world scalable applications**  <br/>
+- 🌱 Passionate about **clean UI & performance optimization**  <br/>
+- 🧠 Strong in **DSA & Problem Solving**  <br/>
+- 🤝 Enjoy collaborating and working in **team environments**  <br/>
+- 💡 Fun fact: I’m a **creative person** and I love my country INDIA <br/>
 
 ---
 
