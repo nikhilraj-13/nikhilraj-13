@@ -59,21 +59,15 @@
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-<br/>
-
 <h3>🛠 Backend</h3> 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-<br/>
-
 <h3>🔧 Tools</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=github,git,figma,netlify,vscode" />
 </p>
-
-<br/>
 
 <h3> 👩‍💻 Languages</h3>
 <p align="center
