@@ -59,21 +59,21 @@
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-<br/><br/>
+<br/>
 
 <h3>🛠 Backend</h3> 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-<br/><br/>
+<br/>
 
 <h3>🔧 Tools</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=github,git,figma,netlify,vscode" />
 </p>
 
-<br/><br/>
+<br/>
 
 <h3> 👩‍💻 Languages</h3>
 <p align="center
@@ -103,18 +103,6 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
----
-
-# 🔥 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/nikhilraj_13/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-
 </p>
 
 ---
